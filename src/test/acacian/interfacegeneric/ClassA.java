@@ -8,5 +8,6 @@ public abstract class ClassA<T> implements GenericInterface<T> {
 	}
 	public void gitFlowTest() {
 		//0611_0_0 test
+		//0611_1 test
 	}
 }
