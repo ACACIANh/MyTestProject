@@ -6,4 +6,7 @@ public abstract class ClassA<T> implements GenericInterface<T> {
 		//È°¿ë?
 		return null;
 	}
+	public void gitFlowTest() {
+		
+	}
 }
